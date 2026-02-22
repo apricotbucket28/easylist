@@ -650,7 +650,7 @@
 @@||cloud.google.com^$~third-party
 @@||developers.google.com^$domain=developers.google.com
 @@||support.google.com^$domain=support.google.com
-@@||tpc.googlesyndication.com^^$domain=ads.google.com
+@@||tpc.googlesyndication.com^$domain=ads.google.com
 ! Yahoo
 @@||gemini.yahoo.com/advertiser/$domain=gemini.yahoo.com
 @@||yimg.com/av/gemini-ui/*/advertiser/$domain=gemini.yahoo.com
