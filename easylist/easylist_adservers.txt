@@ -12201,6 +12201,7 @@
 ||downright-mate.com^
 ||downright-soup.com^
 ||downright-state.pro^
+||downrightcable.pro^
 ||downrightshepherdmodeling.com^
 ||downstairsnegotiatebarren.com^
 ||downstairspoppy.com^
