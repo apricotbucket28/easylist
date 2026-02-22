@@ -5329,6 +5329,7 @@ siasat.com##.stream-item-widget
 news365.co.za##.stream-item-widget-content
 coinpedia.org,elhayat-life.com##.stream-title
 open3dlab.com##.stream[style="align-items:center; justify-content:center;"]
+missav78.top##.streamer-container2
 stellar.ie##.stuck
 darko.audio##.studio_widget
 news.stv.tv##.stv-article-gam-slot
