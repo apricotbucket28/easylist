@@ -57,6 +57,7 @@
 ||anysex.com/*/js|
 ||anysex.com/*/script|
 ||anysex.com^$subdocument,~third-party
+||apbood.boodstream.com/v*/ad/
 ||api.adultdeepfakes.cam/banners
 ||api.redgifs.com/v2/gifs/promoted
 ||ar.429men.com^
