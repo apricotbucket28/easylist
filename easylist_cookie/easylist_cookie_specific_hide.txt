@@ -1481,6 +1481,7 @@ flatspot.pictures##.cookieShit
 oklink.com##.cookieTips
 aanstellingspas.nl##.cookieWallContainer
 elegantflyer.com##.cookie__form
+justdancenow.com##.cookie__wrapper
 deepseek.com##.cookie_banner-wrap
 micro1.ai##.cookie_bar-wrapper
 blacksmith.sh##.cookie_component
