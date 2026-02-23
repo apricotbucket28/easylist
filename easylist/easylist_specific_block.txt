@@ -194,6 +194,7 @@
 ||dirproxy.com/helper-js
 ||discover.hubpages.com/runtime/webads.js
 ||djpunjab.*/ads/
+||dlhd.link/rs4k-adbanner.html
 ||dnslytics.com/images/ads/
 ||domaintyper.com/Images/dotsitehead.png
 ||dominicantoday.com/wp-content/themes/dominicantoday/banners/
