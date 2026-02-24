@@ -1854,6 +1854,7 @@
 ||rtrk.com^$third-party
 ||rttrk.com^$third-party
 ||ru4.com^$third-party
+||rubiconredirect.com^$third-party
 ||rudderlabs.com^$third-party
 ||rumanalytics.com^$third-party
 ||rumpelstiltskinhead.com^$third-party
