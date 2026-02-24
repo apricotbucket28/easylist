@@ -1832,7 +1832,6 @@
 ||tradingview-widget.com/static/bundles/embed/snowplow-embed-widget-tracker.$script
 ||tradingview.com/ping
 ||trafficid.brandwell.ai^
-||traveloka.com/api/v1/metrics
 ||traveloka.com/api/v1/tvlk/events
 ||trck.coomeet.com^
 ||trckng.dainese.com^
@@ -1904,7 +1903,6 @@
 ||umami.spencerdevs.xyz^
 ||umami.vidfast.pro^
 ||umami.wakarimasen.moe^
-||unibling.com/eclytics/
 ||unity3d.com/v1/events
 ||unl1zvy2zuyn.franchiseplus.nl^
 ||unsplash.com/nmetrics
