@@ -84,6 +84,7 @@
 ||jeu.video^*/partners.js
 ||omelette.bonjour-ratp.fr/gtm.js
 ||privacy.footmercato.net^
+||privacy.francoisesaget.com^
 ||privacy.heidi.news^
 ||privacy.letemps.ch^
 ||privacy.luxair.lu^
