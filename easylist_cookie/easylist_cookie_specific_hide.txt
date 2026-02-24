@@ -1241,6 +1241,7 @@ corporate.comcast.com##.c-top-banner
 ustgear.com,wheelertools.com##.c-tracking-consent
 ii.co.uk##.c01194
 queengarnet.com##.c0211
+cycling74.com##.c74consent_wrapper
 eyetvforum.com##.cAnnouncementPageTop
 ada.com##.cDLTkj
 infiniti-abudhabi.com,infiniti-azerbaijan.com,infiniti-bahrain.com,infiniti-dubai.com,infiniti-jordan.com,infiniti-kuwait.com,infiniti-lebanon.com,infiniti-oman.com,infiniti-qatar.com,infiniti.com,infiniti.com.my##.c_128
