@@ -733,6 +733,7 @@
 ||crjugate.com^$popup
 ||crockuncomfortable.com^$popup
 ||crt.livejasmin.com^$popup
+||cruel-love.com^$popup
 ||cryingforanyth.com^$popup
 ||cryorganichash.com^$popup
 ||cryptopuffs.io^$popup
@@ -2733,6 +2734,7 @@
 ||timot-cvk.info^$popup
 ||tingswifing.click^$popup
 ||tinsus.com^$popup
+||tisaneata.com^$popup
 ||titaniumveinshaper.com^$popup
 ||tjoomo.com^$popup
 ||tjwsg.com^$popup
