@@ -3695,7 +3695,7 @@ bleepingcomputer.com##.ia_ad
 animenewsnetwork.com##.iab
 atptour.com##.iab-wrapper
 iai.tv##.iai-article--footer-image
-atlpresscollective.com,luzmedia.co,therover.ca##.iam-ad
+atlpresscollective.com,luzmedia.co,therover.ca,thestraight.com.au##.iam-ad
 infobetting.com##.ibBanner
 ice.hockey##.ice_ner
 ice.hockey##.ice_werbung
