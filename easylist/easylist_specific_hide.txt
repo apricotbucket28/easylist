@@ -7091,6 +7091,7 @@ douglas.*##.criteo-product-carousel
 kaufland.*##.exp-vision__ext-wrapper--spad
 yts.*##.home-content > div:has(.blue ~ a img[src*="/images/download"])
 yandex.*##.mini-suggest__item[data-suggest-counter*="/yandex.ru/clck/safeclick/"]
+flashscore.*##.outrightWidget
 lazada.*##.pdp-block__product-ads
 kaufland.*##.product--spa
 kaufland.*##.product--sponsored
@@ -7103,7 +7104,7 @@ kaufland.*##.rd-recommender__tile:has(span.advertiser-info__button-icon)
 yandex.*##.search-advert-badge
 yandex.*##.search-business-snippet-view__direct
 yandex.*##.search-list-view__advert-offer-banner
-flashscore.*##.section--nmb
+flashscore.*##.section__prematchOdds
 vinted.*##.slot-container--leaderboard
 kaufland.*##.spads-recommender
 kaufland.*##.sponsored-brand-products-container
