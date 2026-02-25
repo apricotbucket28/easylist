@@ -2002,6 +2002,7 @@
 ||pussy.org^*/track.php
 ||px-cdn.net/b/
 ||px-cdn.net^*/collector
+||px-cloud.net/b/c/beacon
 ||px-cloud.net/b/s
 ||px.marchex.io^
 ||px.mountain.com^
