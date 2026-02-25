@@ -7788,7 +7788,6 @@
 ##.__cookies_msg
 ##.__gdpr-main
 ##.__gdprConfirmOverlay
-##._cookie
 ##._cookie-advanced--active
 ##._cookie-banner
 ##._cookie-bar
