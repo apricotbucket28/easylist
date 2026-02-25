@@ -412,6 +412,7 @@ mikesmoneytalks.ca###mikes_reading
 amazon.com###mobile-immersive-player
 everythingrf.com###modalAfterInactivityFormContainer
 proprofs.com###over-overlay
+lapublicpress.org###pAWAYL
 euromaidanpress.com###pa_banner_code
 thenewamerican.com###paywall_overlay
 amazon.com###percolate-ui-ilm_div
@@ -845,6 +846,7 @@ levernews.com##.kg-product-card
 hodinkee.com##.kl-private-reset-css-Xuajs1.needsclick
 euromaidanpress.com##.kompreno
 soundcloud.com##.l-product-banners
+lapublicpress.org##.lapp-donate-section
 notesfrompoland.com##.latacz
 commondreams.org##.lead_post_post_body.message-post
 spotlightpa.org##.lg\:max-w-\[960px\]
