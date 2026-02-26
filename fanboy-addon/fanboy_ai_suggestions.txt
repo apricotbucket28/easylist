@@ -114,7 +114,7 @@ duckduckgo.com##[data-hide-untill-css-vars-polyfilled="true"][data-react-module-
 www.google.com##[data-hveid="CAIQAQ"]:has-text(Gemini, an AI assistant)
 baidu.com##[data-module="creation-cell"]
 duckduckgo.com##[data-react-module-id="duckDuckGoHelp"]
-baidu.com##[data-spy-count="panel-btn-click"idu.com##[data-spy-count="panel-btn-click"]
+baidu.com##[data-spy-count="panel-btn-click"]
 duckduckgo.com##[data-ssg-id="ask-duck-ai-submit"]
 ecosia.org##[data-test-id="search-form-ai-suggestion"]
 duckduckgo.com##[data-testid="aichat-button"]
