@@ -65,6 +65,7 @@
 ||global-media.de^*/track/ai.img
 ||goldsilbershop.de/go.cgi?
 ||gproxy-beta.mableai.workers.dev/wtag/js
+||grafana-agent.cuboxx.io^
 ||hbx.df-srv.de^
 ||hittracker.org/count.php
 ||hittracker.org/counter.php
