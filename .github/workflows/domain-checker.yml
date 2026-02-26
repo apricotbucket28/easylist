@@ -70,7 +70,7 @@ jobs:
           git diff "$BASE" --unified=0 -- "*.txt" \
             | grep '^+' \
             | grep -v '^+++' \
-            | sed 's/^+//' > added_lines.txt
+            | sed 's/^+//' > added_lines.txt || true
 
           touch result.txt
           while IFS= read -r rule; do
