@@ -438,6 +438,7 @@ refurbed.at,refurbed.de,refurbed.dk,refurbed.fr,refurbed.ie,refurbed.it,refurbed
 hightechplace.com##.block-subscribe
 bahia-principe.com##.c-newsletter
 ditano.com##.container-box-email
+mediarado.de##.es-cmspro-element-newsletter
 mmoga.co.uk,mmoga.com,mmoga.de,mmoga.es,mmoga.fr,mmoga.se##.footNewsletter
 laredoute.fr##.footer-newsletter-block
 bierothek.de##.footer-nl
