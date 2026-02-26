@@ -705,6 +705,7 @@ avaaz.org##.global-footer-connect
 cars.com##.global-footer-social-buttons
 tweaktown.com##.gnci
 phonearena.com##.gnews-wrapper
+phonearena.com##.gnews-wrapper-down
 oneindia.com##.goog-one-news
 militarywatchmagazine.com##.google--text
 bringmethenews.com,thehindu.com##.google-btn
@@ -719,7 +720,7 @@ thethaiger.com##.google-news-button-container
 alarabiya.net##.google-news-callout
 dailygalaxy.com,glassalmanac.com##.google-news-card
 cybernews.com,sammobile.com##.google-news-cta
-quiverquant.com##.google-news-follow
+phonearena.com,quiverquant.com##.google-news-follow
 bleedingcool.com##.google-news-source
 ringsidenews.com,tmz.com##.google-preferred-btn
 sammobile.com##.google-preferred-news-source-cta
