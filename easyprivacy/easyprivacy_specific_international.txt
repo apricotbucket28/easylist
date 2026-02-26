@@ -141,6 +141,7 @@
 ||ruw.de/js/trackSidebarClicks.js
 ||s.eick.it^
 ||schnaeppchenfuchs.com/js/default-
+||schottenland.de/na/ajax.php?ax=HiT&
 ||sgtm.tennis-point.de^
 ||shoop.de/mgtrx/
 ||shop.rewe.de/api/xrd/web-vitals
