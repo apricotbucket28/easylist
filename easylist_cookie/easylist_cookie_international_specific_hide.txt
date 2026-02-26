@@ -2636,6 +2636,7 @@ antiplagiat.ru###policyConfirmation
 viziya.info###pop
 calltouch.ru###poppup-food
 umschool.net###popup-container-bottom-left
+prav.io###privacy-widget
 sibur.ru###privacyPolicy
 dzen.ru###recommend-tech-snackbar
 blsspainrussia.ru###removeCookie
