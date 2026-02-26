@@ -3867,6 +3867,7 @@ moebelix.at##body > div > div:has(#jentis_consent)
 boomlify.com##div > div:has-text(We use cookies to improve your experience.)
 yogainternational.com##div[class^="elements__Banner-"]:has(> div > a[href$="-privacy-policy"])
 help.semmelweis.hu#?#.modal:has(h3:has-text(Sütik használata)):has(button:has-text(Elfogadás))
+kick.com#?#.z-modal:-abp-contains(You are in control of cookies used)
 ! Intranet blocks
 ! Domains that won't show up publicly. (like airplane wifi domains)
 flyfi.com##.HASH_COOKIE_ALERT_GRID_ITEM_FIXED
