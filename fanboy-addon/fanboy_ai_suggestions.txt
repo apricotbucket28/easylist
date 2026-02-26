@@ -76,6 +76,7 @@ duckduckgo.com##.chip-select_option__Gh6br:has(> span[title="Duck.ai"])
 bing.com##.copans_container
 github.com##.copilotPreview__container
 republicworld.com##.desktop\:my-4:has-text(Show Quick Read)
+search.yahoo.com##.disclaimerBadge:has-text(Summaries)
 nutraingredients.com##.explore-more-widget
 flyscoot.com##.flight-recommender-container
 singaporeair.com##.flr-link
