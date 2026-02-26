@@ -361,7 +361,7 @@ market.samm.com#?#.bg-light:-abp-contains(newsletter)
 recordcollectormag.com#?#.widget_text:-abp-contains(newsletter)
 rprealtyplus.com#?#.border.rounded.p-2:-abp-contains(news letter)
 !! top-level domain wildcard
-edestinos.*,esky.*,eskytravel.*###newsletter
+asgoodasnew.*,edestinos.*,esky.*,eskytravel.*###newsletter
 atrapalo.*###subscription
 pricespy.*##.TopSection-sc-z3c0qx-11
 royalqueenseeds.*##.hubspot-widget-newsletter

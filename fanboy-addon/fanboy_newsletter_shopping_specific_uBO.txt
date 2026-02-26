@@ -235,8 +235,8 @@ suzukicycles.com##.popup-promo
 partsinmotion.co.uk###fancybox-overlay
 partsinmotion.co.uk##body,html:style(overflow: auto !important; position: initial !important;)
 ! biglots.com
-ardene.com,biglots.com,toysrus.ca##.modal
-ardene.com,biglots.com,toysrus.ca##body,html:style(overflow: auto !important; position: initial !important;)
+ardene.com,asgoodasnew.de,asgoodasnew.es,asgoodasnew.fr,asgoodasnew.it,biglots.com,toysrus.ca##.modal
+ardene.com,asgoodasnew.de,asgoodasnew.es,asgoodasnew.fr,asgoodasnew.it,biglots.com,toysrus.ca##body,html:style(overflow: auto !important; position: initial !important;)
 ! geizdental.de
 authenticoilco.com,geizdental.de##.modals-wrapper
 authenticoilco.com,geizdental.de##body:style(overflow: auto !important; position: initial !important;)
