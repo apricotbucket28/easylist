@@ -17,6 +17,7 @@ forums.redflagdeals.com###ai_summary
 www.yahoo.co.jp###aichat
 reddit.com###answers-nav-button
 reddit.com###answers-suggested-queries-m3
+docs.github.com###ask-ai-result-container
 learn.microsoft.com###ask-learn-flyout
 collinsdictionary.com###assistant-link
 bing.com###b-scopeListItem-conv > [href^="https://www.bing.com/ck/a"]
