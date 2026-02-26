@@ -14,6 +14,7 @@ www.google.com###Odp5De:has-text(AI Overview)
 agoda.com###QuickAnswersContainer
 develop.sentry.dev###ai-list-entry
 forums.redflagdeals.com###ai_summary
+www.yahoo.co.jp###aichat
 reddit.com###answers-nav-button
 reddit.com###answers-suggested-queries-m3
 collinsdictionary.com###assistant-link
@@ -66,6 +67,7 @@ app.slack.com##.autoSummaryCard__UEStF:has-text(AI thread summaries)
 bing.com##.b_insights
 digg.com##.bg-background-ai-tertiary
 stackoverflow.com##.bg-white.wmx7:has-text(AI Assist)
+news.yahoo.co.jp##.bjevXT.sc-c89yjt-3
 britannica.com##.category-link-CHATBOT
 bing.com##.cdxCopilotIconBg
 docs.kits.ai##.chat-assistant-floating-input
