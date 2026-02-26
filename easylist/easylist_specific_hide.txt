@@ -5373,6 +5373,7 @@ swimswam.com##.swimswam-acf
 khmertimeskh.com##.swiper-container-horizontal
 khmertimeskh.com##.swiper-wrapper
 top100token.com##.swiper_div.right-pad
+disruptionbanking.com##.swp_floating_horizontal_wrapper
 presearch.com##.sx-top-bar-products
 html-online.com##.szekcio4
 interestingengineering.com##.t-h-\[280px\]
