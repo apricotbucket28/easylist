@@ -93,6 +93,7 @@ amazon.com##.nav-rufus-disco
 olivela.com##.oli-chat-bubble-popup
 olivela.com##.oli_popup_button
 ecosia.org##.omnibox-search-form__ai-search
+docs.github.com##.prc-ActionList-GroupHeadingWrap-pfbd9:has-text(Ask Copilot)
 op.gg##.rounded.size-\[40px\]
 amazon.com##.rufus-panel-container
 amazon.com##.s-ask-rufus-mshop-suggestion-container
