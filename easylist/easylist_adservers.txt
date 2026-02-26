@@ -2816,6 +2816,7 @@
 ||ajar-instruction.pro^
 ||ajar-lesson.pro^
 ||ajardesire.pro^
+||ajarguitar.pro^
 ||ajarmargaritaalmond.com^
 ||ajautchaissaur.net^
 ||ajcafpjuhur.xyz^
@@ -8706,6 +8707,7 @@
 ||cjewz.com^
 ||cjfdrpmcjmkuf.com^
 ||cjfeclumbytpq.website^
+||cjfevlbbmjvyee.com^
 ||cjgeqnxnxejet.space^
 ||cjgimadfnuztn.online^
 ||cjhmaygz.com^
