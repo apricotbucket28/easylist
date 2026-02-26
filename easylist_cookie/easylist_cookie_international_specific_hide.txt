@@ -1039,7 +1039,6 @@ jihostroj.com##.cookiePolicy
 mikov.cz##.cookieconsent-com---nb
 bidli.cz,diadny.cz,domibags.cz,ibdkurz.cz,shop-wedrink.com##.cookies-canvas
 vzdelanibudoucnosti.cz##.cookies-dialog-wrapper
-alza.cz##.cookies-info
 phnaverandach.cz,realbonus.cz##.cookies-popup-short
 menicka.cz##.cookies_panel_wrp
 aquapalace.cz,obchod.crew.cz##.cs

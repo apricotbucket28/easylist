@@ -2933,6 +2933,7 @@ chapelle.co.uk,mtis.by,museum.nl,pyszne.pl##.cookie-overlay
 ! wildcard
 cam4.*##.EEoPD
 evertiq.*##.cc-container
+alza.*##.cookies-info
 track.amazon.*##.wfbHK2
 wayfair.*##div[data-hb-id="Modal"] > div > [data-test-id="CookiePreferenceNotification"]
 !! #cookiePopup
