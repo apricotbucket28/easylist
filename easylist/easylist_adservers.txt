@@ -54906,7 +54906,7 @@
 ||pubscale.com^$third-party
 ||pubwise.io^$third-party
 ||puffnetwork.com^$third-party
-||pushabl.com^$third-party
+||pushabl.com^$script,third-party
 ||pushy.ai^$third-party
 ||putlockertv.com^$third-party
 ||q1media.com^$third-party
