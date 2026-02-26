@@ -2391,8 +2391,8 @@ riverisland.com###cookie-consent
 identity.riverisland.com##div[class^="cookie-consent"]
 riverisland.com##html:style(position: static !important; overflow: auto !important; width: auto !important;)
 !! .cookie-modal
-filmzie.com,ovenclean.com##.cookie-modal
-filmzie.com,ovenclean.com##body,html:style(overflow: auto !important; position: initial !important;)
+filmzie.com,ovenclean.com,playox.de##.visible.cookie-modal
+filmzie.com,ovenclean.com,playox.de##body,html:style(overflow: auto !important; position: initial !important;)
 !! .cookies-widget--light
 benakey.com,booking-locly.com,carlton-riviera-cannes.com,casavaleriosb.com,clickyourflat.com,conciergerie-remigriffoul.com,giens.com,habitatparisien.com,le-regent.fr,locastay.com,ma-villa-en-provence.fr,majordome-prive.fr,mallorcaprivilege.com,nerjaparadiserentals.com,pelican-paros.com,rent-paris.com,rentlikehome.com,rose-vacances.com,sleepaways.com,smrraurisapartments.com,tahitiresidences.com,the-only-place.com,zewelcome.com##.cookies-widget--light
 benakey.com,booking-locly.com,carlton-riviera-cannes.com,casavaleriosb.com,clickyourflat.com,conciergerie-remigriffoul.com,giens.com,habitatparisien.com,le-regent.fr,locastay.com,ma-villa-en-provence.fr,majordome-prive.fr,mallorcaprivilege.com,nerjaparadiserentals.com,pelican-paros.com,rent-paris.com,rentlikehome.com,rose-vacances.com,sleepaways.com,smrraurisapartments.com,tahitiresidences.com,the-only-place.com,zewelcome.com##body,html:style(overflow: auto !important; position: initial !important;)
