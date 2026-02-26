@@ -132,6 +132,7 @@ msn.com##codex-bing-chat[instance-id="CodexBingChat"]
 outlook.office.com##div#CopilotCommandCenterButton
 search.brave.com##div.ai-digest
 google.com##div[data-rp-placement-id="gemkick-pep-icon-callout-id"]
+new.express.adobe.com##label#switch-label.assistant-switch-label
 duckduckgo.com##li:first-child:has([data-testid="duckassist-answer-content"])
 www.google.com##li[data-attrid$="Prediction"]:has([aria-description="AI Mode"])
 yandex.com##li[data-fast-name="neuro_answer"]
