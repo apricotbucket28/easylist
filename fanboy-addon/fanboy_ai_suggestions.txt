@@ -45,7 +45,10 @@ time.com###scale-agent-overlay-container
 search.brave.com###submit-llm-button:has-text(Ask)
 trip.com##.A9zea:has([aria-label*="Hi! TripGenie"])
 ndtv.com##.ASum_wr
+search.yahoo.co.jp##.AiAssistant
+search.yahoo.co.jp##.AnswerAiNavigation
 coinmarketcap.com##.FloatingAiChat_floatingAiChatContainer__YJK16
+search.yahoo.co.jp##.Unit__naturalText
 www.google.com##.VwJg8d:has-text(AI Shopping)
 www.google.com##.X8zPMb:has-text(flight deals with AI)
 sciencedirect.com##._pendo-guide-walkthrough_
