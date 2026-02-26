@@ -90,6 +90,7 @@ it-daily.net##.ns-buttons
 onvista.de##.ov-article__sharebar
 domradio.de##.page-tools
 haustec.de##.paragraph--type--social-links
+basic-tutorials.de##.post-followus-btn
 hansa-online.de##.printfriendly
 streamkiste.tv##.sb
 teltarif.de##.sbm
