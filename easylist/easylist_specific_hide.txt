@@ -2792,6 +2792,7 @@ top.gg##.chakra-stack.css-15xujv4
 tlgrm.eu##.channel-card--promoted
 thetimes.com##.channel-header-ad
 crn.com##.chartbeat-wrapper
+bintvs.fun##.chat-overlay-ad
 cheknews.ca##.chek-advertisement-placeholder
 sevenforums.com,tenforums.com##.chill
 cdmediaworld.com,gametarget.net,lnkworld.com##.chk
@@ -4562,6 +4563,7 @@ reelviews.net##.picHolder
 locklab.com##.picwrap
 romania-insider.com##.pigeon-context-promotion
 yopmail.com,yopmail.fr,yopmail.net##.pindexhautctn
+bintv.net##.pinned-ad
 9animetv.to,hianime.to##.pizza
 pricespy.co.nz,pricespy.co.uk##.pjra-w-\[970px\]
 carsized.com##.pl_header_ad
