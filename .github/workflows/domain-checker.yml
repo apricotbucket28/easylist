@@ -35,11 +35,11 @@ jobs:
           if git diff --quiet HEAD origin/master 2>/dev/null; then
             echo "Base: HEAD~1 (push)"
             echo "Diff:"
-            git diff HEAD~1 --unified=0 -- "*.txt" | head -50
+            git diff HEAD~1 --unified=0 -- "*.txt" | head -150
           else
             echo "Base: origin/master (PR)"
             echo "Diff:"
-            git diff origin/master --unified=0 -- "*.txt" | head -50
+            git diff origin/master --unified=0 -- "*.txt" | head -150
           fi
 
       - name: Check for open banned domain issue
@@ -60,8 +60,26 @@ jobs:
       - name: Check for banned domains
         id: scan
         run: |
-          ./fop-linux --no-commit --check-banned-list=cleaned-domains.txt --ci . 2>&1 | tee result.txt || true
-          if grep -q "banned domain(s) found" result.txt; then
+          if [ "${{ github.event_name }}" = "pull_request" ]; then
+            BASE="origin/master"
+          else
+            BASE="HEAD~1"
+          fi
+
+          git diff "$BASE" --unified=0 -- "*.txt" \
+            | grep '^+' \
+            | grep -v '^+++' \
+            | sed 's/^+//' > added_lines.txt
+
+          touch result.txt
+          while IFS= read -r rule; do
+            domain=$(echo "$rule" | grep -oP '(?<=\|\|)[^\^$\/]+(?=[\^$]|$)')
+            if [ -n "$domain" ] && grep -qix "^${domain}$" cleaned-domains.txt; then
+              echo "banned domain(s) found: $domain (rule: $rule)" | tee -a result.txt
+            fi
+          done < added_lines.txt
+
+          if [ -s result.txt ]; then
             echo "found=true" >> $GITHUB_OUTPUT
             exit 1
           fi
