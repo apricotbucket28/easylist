@@ -60,6 +60,7 @@ jobs:
       - name: Check for banned domains
         id: scan
         run: |
+          echo "=== Added lines ===" 
           if [ "${{ github.event_name }}" = "pull_request" ]; then
             BASE="origin/master"
           else
@@ -74,15 +75,25 @@ jobs:
           touch result.txt
           while IFS= read -r rule; do
             domain=$(echo "$rule" | grep -oP '(?<=\|\|)[^\^$\/]+(?=[\^$]|$)')
+            [ -n "$domain" ] && echo "Checking: $domain"
             if [ -n "$domain" ] && grep -qix "^${domain}$" cleaned-domains.txt; then
               echo "banned domain(s) found: $domain (rule: $rule)" | tee -a result.txt
             fi
           done < added_lines.txt
+          echo "=== Scan complete ==="
+          cat result.txt || echo "(result.txt empty)"
 
           if [ -s result.txt ]; then
             echo "found=true" >> $GITHUB_OUTPUT
             exit 1
           fi
+
+      - name: Upload scan result
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: scan-result
+          path: result.txt
 
       - name: Create or update issue on failure
         if: failure() && steps.scan.outputs.found == 'true' && github.event_name == 'push'
