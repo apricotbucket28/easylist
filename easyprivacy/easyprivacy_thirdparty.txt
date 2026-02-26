@@ -2196,6 +2196,7 @@
 ||sfstatic.net/build/js/basicMetricsTracking.
 ||sftrack.searchforce.net^
 ||sgali-mcs.byteoversea.com^
+||sgm-w.jd.com^
 ||share-online.biz/affiliate/$third-party
 ||shareaholic.com/analytics_
 ||shareaholic.com/partners.js

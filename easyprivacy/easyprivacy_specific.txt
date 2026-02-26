@@ -307,6 +307,7 @@
 ||c.wort-suche.com^
 ||c.xbox.com^
 ||c.ypcdn.com^$domain=yellowpages.com
+||cactus.joybuy.com^
 ||camgirls.casa/p.php
 ||cammodels.com/api/metrics
 ||campsaver.com/nelmio-js-logger/
@@ -359,6 +360,7 @@
 ||client-errors.rebble.io/log-client-error
 ||client-log.box.com^
 ||client-metrics.chess.com^
+||clk-m.joybuy.com^
 ||cloudflare.com/_cf/analytics.js
 ||cloudfront.net/tracker-latest.min.js
 ||cloudfront.net/vis_opt.js
@@ -806,6 +808,7 @@
 ||gurgle.pcmag.com^
 ||gurgle.spiceworks.com^
 ||h031.familydollar.com^
+||h5log.joybuy.com^
 ||hacksplaining.com/track
 ||hankookilbo.com/service/kt/trk.js$script,domain=koreatimes.co.kr
 ||harryrosen.com/analytics/
