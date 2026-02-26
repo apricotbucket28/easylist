@@ -71,6 +71,7 @@
 ||fotocommunity.de/track/
 ||fpoe.at/tracker/
 ||froglytics.eventfrog.ch^
+||galaxus.com/_next/static/chunks/rum.$script
 ||gegenstimme.tv/tracker/
 ||geoip.finanzen.net^
 ||glomex.com^$ping
@@ -232,6 +233,7 @@
 ||tracking.zierlicheladies.de^
 ||tracksrv.zdf.de^
 ||tutti.ch/api/v10/clientmetrics/report-metric
+||ud.galaxus.de^
 ||ui-portal.de/pos-cdn/tracklib/
 ||united.web.de/confirm?
 ||united.web.de/event?
