@@ -1938,6 +1938,7 @@ backstage.com##.section--newsletter
 mygenefood.com##.section--optin
 theideasletter.org##.section--subscribe
 usrtk.org##.section-callout-newsletter
+wheresyoured.at##.section-cta
 crowdsupply.com##.section-email-signup
 247wallst.com##.section-email-sub
 developer.mozilla.org,findlaw.com,leouve.com.br,pcguide.com,topgear.nl##.section-newsletter
@@ -1988,7 +1989,7 @@ techerati.com##.sidebar-signup-form-container
 thesaturdaypaper.com.au##.sidebar-sticky--briefing
 coincodex.com,halfbakedharvest.com##.sidebar-subscribe
 fortune.com##.sidebarPlea
-evinfocus.com,pbs.org,readtangle.com##.sidebar__subscribe
+evinfocus.com,pbs.org,readtangle.com,wheresyoured.at##.sidebar__subscribe
 therecord.media##.sidebar__widget--newsletter
 masterinvestor.co.uk##.sidebar_nl
 vnews.com##.sidebaritem2018
