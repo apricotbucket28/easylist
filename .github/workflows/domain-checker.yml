@@ -75,9 +75,11 @@ jobs:
           touch result.txt
           while IFS= read -r rule; do
             domain=$(echo "$rule" | grep -oP '(?<=\|\|)[^\^$\/]+(?=[\^$]|$)')
-            [ -n "$domain" ] && echo "Checking: $domain"
-            if [ -n "$domain" ] && grep -qix "^${domain}$" cleaned-domains.txt; then
-              echo "banned domain(s) found: $domain (rule: $rule)" | tee -a result.txt
+            if [ -n "$domain" ]; then
+              echo "Checking: $domain"
+              if grep -qiFx "${domain}" cleaned-domains.txt; then
+                echo "banned domain(s) found: $domain (rule: $rule)" | tee -a result.txt
+              fi
             fi
           done < added_lines.txt
           echo "=== Scan complete ==="
