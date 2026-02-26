@@ -131,6 +131,7 @@ gutfried.de###fog
 apotal.de###footer
 sumatronic.ch###fupi_cookie_notice
 dubaro.de###gdpr-cookie-message
+cyberport.de###gdpr_cookie_notice
 bluvista.tv###gdpr_footer
 pokewiki.de###gl-topbar-bg
 antonius.de###google-splash-screen
