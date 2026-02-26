@@ -464,6 +464,7 @@ kingattitude.it##.subscribe-widget
 festina.com,tevanaot.co.il##.subscribe-wrapper
 kruidvat.nl##.subscription-box
 telhanorte.com.br##.telhanorte-telha-store-app-1-x-container-newsletter
+barax.de##.twt-element-newsletter
 viata.fr##.vi-newsletter-subscribe__content
 loungerie.com.br##.vtex-flex-layout-0-x-flexRow--newsletter-vtex-row
 drezzy.it##.widget-newsletter

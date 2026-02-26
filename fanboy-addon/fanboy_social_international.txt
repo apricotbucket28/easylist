@@ -128,6 +128,7 @@ kress.de##.susc-social-media
 t3n.de##.tg-pockethinweis
 t3n.de##.tg-social-bottom
 kleinezeitung.at##.tik4-sharing
+barax.de##.twt-sharing-links
 goldinvest.de##.uael-marketing-button
 dioezesanmuseum-rottenburg.de##.uncode-vc-social
 watson.ch##.watson-sharebuttons
