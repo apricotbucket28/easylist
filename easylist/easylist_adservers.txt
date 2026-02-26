@@ -10259,6 +10259,7 @@
 ||culnas.click^
 ||culotteuta.qpon^
 ||culponkinema.cfd^
+||culptectona.cfd^
 ||culpycscbslnp.store^
 ||cultameban.click^
 ||cultchwarp.cyou^
