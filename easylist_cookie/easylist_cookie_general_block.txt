@@ -679,8 +679,6 @@
 /jquery.cookie-madeincima.js
 /jquery.cookieaccept.js
 /jquery.cookieaccept.min.js
-/jquery.cookiebar.js
-/jquery.cookiebar.min.js
 /jquery.cookiebargenial.js
 /jquery.cookiecuttr.
 /jquery.divascookies-
