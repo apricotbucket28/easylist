@@ -758,6 +758,7 @@ hometogo.fr##.react-onclickoutside
 agences.paritel.fr##.rgpd--container
 atream.com##.rgpd-modal
 didilz.com##.rgpd-overlay
+stonescape.sayki.fr##.s-cookie-banner
 ray-jules.com##.s-cookie__modal92
 lelivrescolaire.fr##.s1d26ck5
 jobs.iziwork.com##.sc-bfhvDw
