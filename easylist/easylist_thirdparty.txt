@@ -444,6 +444,7 @@
 ||perfectmoney.com/img/banners/
 ||pics.firstload.de^
 ||pips.taboola.com^
+||piratecat.online/ads/
 ||pixfs.net/js/sticky-sidebar-ad.min.js
 ||pjatr.com^$image,script
 ||pjtra.com^$image,script
