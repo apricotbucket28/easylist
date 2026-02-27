@@ -7106,10 +7106,12 @@ kaufland.*##.product--spa
 kaufland.*##.product--sponsored
 douglas.*##.product-grid-column:has(.criteo-spotlight)
 douglas.*##.product-grid-column:has([data-testid="sponsored-button"])
+leroymerlin.*##.product-thumbnail:has(.o-thumbnail__sponsored)
 kaufland.*##.product:has(div.product__sponsored-ad-label)
 tripadvisor.*##.rSJod
 kaufland.*##.rd-recommender__tile:has(div.rd-product-tile__badge--ad)
 kaufland.*##.rd-recommender__tile:has(span.advertiser-info__button-icon)
+leroymerlin.*##.recommendation--sponso
 yandex.*##.search-advert-badge
 yandex.*##.search-business-snippet-view__direct
 yandex.*##.search-list-view__advert-offer-banner
@@ -7152,6 +7154,7 @@ wayfair.*##div[data-hb-id="Grid.Item"]:has(a[href*="&sponsoredid="])
 wayfair.*##div[data-name="DisplayAd"]
 wayfair.*##div[data-node-id^="SponsoredListingCollectionItem"]
 checkfelix.com,kayak.*,momondo.*,swoodoo.*##div[data-resultid$="-sponsored"]
+leroymerlin.*##div[data-st-name="sponsored"]
 costco.*##div[data-testid="AdSet-all-sponsored_products"]
 walmart.*##div[data-testid="sp-item"]
 walmart.*##div[data-testid="sp-search-middle"]
