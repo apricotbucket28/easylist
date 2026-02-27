@@ -1178,6 +1178,7 @@
 ||networklast.com^
 ||newarkdriving.com^
 ||newartreview.com^
+||newsbotnet.com^
 ||nicefollows.com^
 ||nicehuh.com^
 ||niftygraphs.com^
