@@ -45757,6 +45757,7 @@
 ||trumpsupport.help^
 ||trunfezzy.help^
 ||trunnelsavvy.cfd^
+||trunpannery.cfd^
 ||truoptik.com^
 ||trusa.xyz^
 ||trustaffs.com^
