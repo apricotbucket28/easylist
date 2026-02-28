@@ -1095,6 +1095,7 @@
 ||feedblitz.com/imp?$third-party
 ||feedblitz.com^*.gif?$third-party
 ||feedify.net/thirdparty/json/track/
+||fem.gprod.postmedia.digital/*/IIQUniversalID.js
 ||fgip.rosehosting.com^
 ||filament-stats.herokuapp.com^
 ||files.envoke.com^*_nvk_tracking.js
