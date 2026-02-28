@@ -187,6 +187,7 @@
 /email/open?
 /email_open_log_
 /emailopen?q=$image
+/emailtrack.offers-exchange.com/*$image
 /emimp/*$image
 /engage.indeed.com/*$image
 /eo?_t=$image
