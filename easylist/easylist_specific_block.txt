@@ -528,6 +528,7 @@
 ||play.showernicego.xyz/jquery.js
 ||players.radioonlinehd.net^$domain=flamecomics.xyz
 ||plutonium.cointelegraph.com^
+||plutotv.imgix.net/pauseads/$domain=pluto.tv
 ||pnn.ps/storage/images/partners/
 ||poedb.tw/image/torchlight/
 ||pons.com/assets/javascripts/modules-min/ad-utilities_
@@ -599,6 +600,7 @@
 ||sermonaudio.com/images/sponsors/
 ||serververify.com/advertisement/
 ||serververify.com/providers/ad-load/
+||service-ad-image-ga-weighted.prd.pluto.tv^
 ||sfgate.com/juiceExport/production/sfgate.com/loadAds.js
 ||sgtreport.com/wp-content/uploads/*Banner
 ||sharecast.ws/cum.js
