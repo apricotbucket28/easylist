@@ -464,6 +464,7 @@
 ||press-start.com/affgames/
 ||privatejetfinder.com/skins/partners/$third-party
 ||probid.ai^$third-party
+||profamouslife.com/js/adcash.js
 ||promos.fling.com^
 ||promote.pair.com/88x31.pl
 ||protected-redirect.click^
