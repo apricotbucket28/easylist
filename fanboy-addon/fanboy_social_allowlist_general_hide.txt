@@ -1,4 +1,5 @@
 ! fanboy_social_allowlist_general_hide.txt
+mtcgame.com#@##cookies-with-stacked-buttons
 gifyagusi.pl#@##fan-exit
 gifyagusi.pl#@##fanback
 facebook.com#@##fb_header
